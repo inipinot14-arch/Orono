@@ -1,0 +1,124 @@
+<img src="imagem-creatina.png">
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Creatina Gummy Velmora</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8e9f2;
+      margin: 0;
+      padding: 0;
+      color: #4a1c3b;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #ffffff;
+      padding: 20px;
+    }
+    .hero img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #c2187a;
+    }
+    .benefits {
+      margin: 20px 0;
+    }
+    .benefits li {
+      margin: 10px 0;
+    }
+    .offer {
+      background: #f3d4e6;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+      text-align: center;
+    }
+    .price {
+      font-size: 28px;
+      font-weight: bold;
+      color: #2e7d32;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #777;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 15px 30px;
+      background: #2e7d32;
+      color: #fff;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 8px;
+    }
+    .btn:hover {
+      background: #256428;
+    }
+    footer {
+      text-align: center;
+      font-size: 12px;
+      margin-top: 20px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="hero">
+      <img src="imagem-creatina.png" alt="Creatina Gummy Velmora">
+    </div>
+
+    <h1>Creatina Gummy Velmora</h1>
+    <h2>Mais força, resistência e desempenho — de forma prática e deliciosa</h2>
+
+    <p style="text-align:center;">
+      A <strong>Creatina Gummy Velmora</strong> oferece 3g de creatina por porção,
+      em gomas sabor tutti-frutti, sem açúcar e sem glúten.
+    </p>
+
+    <ul class="benefits">
+      <li>? Auxilia no aumento da força muscular</li>
+      <li>? Melhora resistência e desempenho nos treinos</li>
+      <li>? Não precisa diluir ou engolir cápsulas</li>
+      <li>? Alternativa moderna ao pó tradicional</li>
+      <li>? Prática para o dia a dia</li>
+    </ul>
+
+    <h2>Escolha sua oferta</h2>
+
+    <div class="offer">
+      <h3>1 Pote – 60 Gomas</h3>
+      <p class="old-price">De R$ 197,00</p>
+      <p class="price">Por R$ 137,90</p>
+      <a class="btn" href="https://pay.hest.com.br/17227816-2ab6-43b3-9420-e6baec448a21" target="_blank">
+        COMPRAR AGORA
+      </a>
+    </div>
+
+    <div class="offer">
+      <h3>Kit Econômico – 3 Potes</h3>
+      <p class="old-price">De R$ 459,00</p>
+      <p class="price">Por R$ 321,30</p>
+      <a class="btn" href="https://pay.hest.com.br/a5eabd12-4e27-421d-b7da-ddf22f8ba161" target="_blank">
+        COMPRAR AGORA
+      </a>
+    </div>
+
+    <footer>
+      © 2026 Velmora • Suplemento alimentar • Resultados variam de pessoa para pessoa
+    </footer>
+
+  </div>
+
+</body>
+</html>
